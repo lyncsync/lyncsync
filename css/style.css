@@ -225,14 +225,14 @@ h6 {
   background-size: cover;
 }
 
-#intro .intro-info h2 {
+#intro .intro-info h1 {
   color: #413e66;
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
 }
 
-#intro .intro-info h2 span {
+#intro .intro-info h1 span {
   color: #1bb1dc;
 }
 
